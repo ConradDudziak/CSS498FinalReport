@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Turn Based",
+"productVersion": "0.1",
+"dataUrl": "CSS498FinalReport.data.unityweb",
+"asmCodeUrl": "CSS498FinalReport.asm.code.unityweb",
+"asmMemoryUrl": "CSS498FinalReport.asm.memory.unityweb",
+"asmFrameworkUrl": "CSS498FinalReport.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.1f1"
+}
